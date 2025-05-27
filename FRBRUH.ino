@@ -198,8 +198,7 @@ void setup() {
 
   holonomic(50, 90, 0);
   delay(800);
-  wheel(0, 0, 0);
-  delay(200);
+
 }
 
 void loop() {
